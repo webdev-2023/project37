@@ -1,0 +1,4 @@
+/* change the CSS styling of the list items to indicate that they have been bought. */
+.item-bg {
+    background-color: rgb(155, 236, 232);
+}
